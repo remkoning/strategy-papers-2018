@@ -23,6 +23,34 @@ Feel free to email me rem@hbs.edu or submit a pull request if you want to add/ex
   * [Russell W. Coff _The coevolution of rent appropriation and capability development_
     SMJ 2010 ](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.844)
 
+* The decline of competition
+  * [Azar, José; Marinescu, Ioana E.; Steinbaum, Marshall _Labor Market Concentration_
+    IZA 2017 ](https://www.econstor.eu/bitstream/10419/177058/1/dp11254.pdf)
+  * [Colleen Cunningham, FLorian Ederer, Song Ma _Killer Acquisitions_
+    WP 2018 ](http://faculty.som.yale.edu/songma/files/cem_killeracquisitions.pdf)
+  * [Evan Starr, Natarajan Balasubramanian, Mariko Sakakibara _Screening Spinouts? How Noncompete Enforceability Affects the Creation, Growth, and Survival of New Firms_
+    MS 2017 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2523418)
+  * [Jason Alan Snyder, Ivo Welch _Do Powerful Politicians Really Cause Corporate Downsizing?_
+    JPE 2017 ](https://www.journals.uchicago.edu/doi/abs/10.1086/694204?journalCode=jpe)
+
+* Managment and Firm Performance
+  * [Chad Syverson _What Determines Productivity?_
+    JEL 2011 ](http://home.uchicago.edu/syverson/productivitysurvey.pdf)
+  * [Nicholas Bloom, Raffaella Sadun, John Van Reenen _Management as a Technology?_
+    NBER 2017 ](https://www.nber.org/papers/w22327)
+  * [Jing Cai, Adam Szeidl, _Interfirm Relationships and Business Performance_
+    QJE 2017  ](https://academic.oup.com/qje/article/133/3/1229/4768295)
+  * [Aaron Chatterji, Solène Delecourt, Sharique Hasan, Rembrand M. Koning _When Does Advice Impact Startup Performance?_
+    NBER 2018 ](https://www.nber.org/papers/w24789)
+  * [Steven Blader, Claudine Madras Gartenberg Andrea Prat _The Contingent Effect of Management Practices_
+    WP 2016 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594258)
+  * [Nicholas Bloom  Raffaella Sadun  John Van Reenen _The Organization of Firms Across Countries_
+    QJE 2012 ](https://academic.oup.com/qje/article-abstract/127/4/1663/1842108?redirectedFrom=fulltext)
+  * [Robert Gibbons, Rebecca Henderson _Relational Contracts and Organizational Capabilities_
+    OS 2011 ](https://pubsonline.informs.org/doi/abs/10.1287/orsc.1110.0715?journalCode=orsc)
+  * [Timothy J. Quigley,  Donald C. Hambrick _Has the “CEO effect” increased in recent decades? A new explanation for the great rise in America's attention to corporate leaders_
+    SMJ 2014 ](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2258)
+
 * Strategy for ideas, technology and innovation
   * [Hong Luo _When to Sell Your Idea: Theory and Evidence from the Movie Industry_
     MS 2014 ](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.1983)
@@ -62,24 +90,6 @@ Feel free to email me rem@hbs.edu or submit a pull request if you want to add/ex
     SMJ 2016](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2440)
   * [Joseph T. Mahoney, Lihong Qian _Market frictions as building blocks of an organizational economics approach to strategic management_ SMJ 2013 ](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2056)
 
-* Managment and Firm Performance
-  * [Chad Syverson _What Determines Productivity?_
-    JEL 2011 ](http://home.uchicago.edu/syverson/productivitysurvey.pdf)
-  * [Nicholas Bloom, Raffaella Sadun, John Van Reenen _Management as a Technology?_
-    NBER 2017 ](https://www.nber.org/papers/w22327)
-  * [Jing Cai, Adam Szeidl, _Interfirm Relationships and Business Performance_
-    QJE 2017  ](https://academic.oup.com/qje/article/133/3/1229/4768295)
-  * [Aaron Chatterji, Solène Delecourt, Sharique Hasan, Rembrand M. Koning _When Does Advice Impact Startup Performance?_
-    NBER 2018 ](https://www.nber.org/papers/w24789)
-  * [Steven Blader, Claudine Madras Gartenberg Andrea Prat _The Contingent Effect of Management Practices_
-    WP 2016 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594258)
-  * [Nicholas Bloom  Raffaella Sadun  John Van Reenen _The Organization of Firms Across Countries_
-    QJE 2012 ](https://academic.oup.com/qje/article-abstract/127/4/1663/1842108?redirectedFrom=fulltext)
-  * [Robert Gibbons, Rebecca Henderson _Relational Contracts and Organizational Capabilities_
-    OS 2011 ](https://pubsonline.informs.org/doi/abs/10.1287/orsc.1110.0715?journalCode=orsc)
-  * [Timothy J. Quigley,  Donald C. Hambrick _Has the “CEO effect” increased in recent decades? A new explanation for the great rise in America's attention to corporate leaders_
-    SMJ 2014 ](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2258)
-
 * Social Prisms and pipes
   * [Noah Askin, Matthew Bothner _Status-Aspirational Pricing: The “Chivas Regal” Strategy in U.S. Higher Education, 2006–2012_
   ASQ 2016 ](http://journals.sagepub.com/doi/abs/10.1177/0001839216629671?journalCode=asqa)
@@ -91,17 +101,6 @@ Feel free to email me rem@hbs.edu or submit a pull request if you want to add/ex
     ASQ 2017 ](http://journals.sagepub.com/doi/abs/10.1177/0001839217708984?journalCode=asqa)
   * [Witold J. Henis,  Sinziana Dorobantu,  Lite J. Nartey _Spinning gold: The financial returns to stakeholder engagement_
     SMJ 2013 ](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2180)
-
-
-* The decline of competition
-  * [Azar, José; Marinescu, Ioana E.; Steinbaum, Marshall _Labor Market Concentration_
-    IZA 2017 ](https://www.econstor.eu/bitstream/10419/177058/1/dp11254.pdf)
-  * [Colleen Cunningham, FLorian Ederer, Song Ma _Killer Acquisitions_
-    WP 2018 ](http://faculty.som.yale.edu/songma/files/cem_killeracquisitions.pdf)
-  * [Evan Starr, Natarajan Balasubramanian, Mariko Sakakibara _Screening Spinouts? How Noncompete Enforceability Affects the Creation, Growth, and Survival of New Firms_
-    MS 2017 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2523418)
-  * [Jason Alan Snyder, Ivo Welch _Do Powerful Politicians Really Cause Corporate Downsizing?_
-    JPE 2017 ](https://www.journals.uchicago.edu/doi/abs/10.1086/694204?journalCode=jpe)
 
 
 ## Syllabi
