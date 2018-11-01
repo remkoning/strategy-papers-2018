@@ -91,5 +91,7 @@ JPE 2017 https://www.journals.uchicago.edu/doi/abs/10.1086/694204?journalCode=jp
 * Abhishek Nagaraj _The Private Impact of Public Information: Landsat Satellite Maps and Gold Exploration_
 WP 2018 http://abhishekn.com/files/nagaraj_landsat_oct2018.pdf
 
-## Syllabae
-**
+## Syllabi
+* Strategy Toolbox Food for Thought: PhD seminar syllabi https://carpenterstrategytoolbox.com/2014/11/20/phd-seminar-syllabi/
+* Toolbox syllabi part 2 https://carpenterstrategytoolbox.files.wordpress.com/2014/11/lbs-phd-seminar-strategy.pdf
+* Strategy Research Initiative http://strategyresearch.net/yahoo_site_admin/assets/docs/PhD_reader10-1.24133352.pdf
