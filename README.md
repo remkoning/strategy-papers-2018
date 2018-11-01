@@ -4,7 +4,11 @@ Sharique Hasan posted this tweet, https://twitter.com/shariqueorg/status/1057591
 
 > If you were going to ask a brand new Ph.D. student in #Strategy to read one paper published in the last 5 years, what would it be (could be yours too!)? @AaronChatterji @robseamans @orgRem @jpeggers @KevinJBoudreau @jasondavisin @LamarPierce1 @cunningham_lbs @Cmgartenberg
 
-Lots of great suggestions and comments on twitter from Strategy faculty, but the thread can be hard to follow. Below are the papers/syllabai that (I think) everyone mentioned.
+Lots of great suggestions and comments on twitter from Strategy faculty, but the thread can be hard to follow. Below are the papers/syllabi that the strategy twitter community surfaced. Great papers all around! Not all are published, some are over 5 years old, and most people suggested more than one paper.  Turns out academics can't follow instructions!  That all said I think the list is an instructive window into what questions have grabbed the attention of Strategy scholars as of late 2018.
+
+Did I leave your recommendation off the list? Email me (rem@hbs.edu) or submit a pull request!
+
+---
 
 Did I leave your recommendation off the list? Email me (rem@hbs.edu) or submit a pull request!
 
