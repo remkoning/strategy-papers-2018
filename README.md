@@ -82,7 +82,14 @@ AMA 2017 https://journals.aom.org/doi/abs/10.5465/19416520.2011.590301
 WP 2018 http://faculty.som.yale.edu/songma/files/cem_killeracquisitions.pdf
 * Evan Starr, Natarajan Balasubramanian, Mariko Sakakibara _Screening Spinouts? How Noncompete Enforceability Affects the Creation, Growth, and Survival of New Firms_
 MS 2017 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2523418
-
+* Nicholas Bloom  Raffaella Sadun  John Van Reenen _The Organization of Firms Across Countries_
+QJE 2012 https://academic.oup.com/qje/article-abstract/127/4/1663/1842108?redirectedFrom=fulltext
+* Steven Blader, Claudine Madras Gartenberg Andrea Prat _The Contingent Effect of Management Practices_
+WP 2016 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594258
+* Jason Alan Snyder, Ivo Welch _Do Powerful Politicians Really Cause Corporate Downsizing?_
+JPE 2017 https://www.journals.uchicago.edu/doi/abs/10.1086/694204?journalCode=jpe
+* Abhishek Nagaraj _The Private Impact of Public Information: Landsat Satellite Maps and Gold Exploration_
+WP 2018 http://abhishekn.com/files/nagaraj_landsat_oct2018.pdf
 
 ## Syllabae
 **
