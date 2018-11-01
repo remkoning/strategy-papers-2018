@@ -53,7 +53,7 @@ Feel free to email me rem@hbs.edu or submit a pull request if you want to add/ex
   * [Benjamin F. Jones _The Burden of Knowledge and the “Death of the Renaissance Man”: Is Innovation Getting Harder?_
     REStud 2009 ](https://academic.oup.com/restud/article-abstract/76/1/283/1577537?redirectedFrom=fulltext)
 
-* The fundamentals of strategy
+* The (micro?) foundations of strategy
   * [Todd R. Zenger, Teppo Felin, Lyda Bigelow _Theories of the Firm–Market Boundary_
     AMA 2017 ](https://journals.aom.org/doi/abs/10.5465/19416520.2011.590301)
   * [Gautam Ahuja, Elena Novelli _Redirecting Research Efforts on the Diversification–Performance Linkage: The Search for Synergy_
@@ -75,7 +75,7 @@ Feel free to email me rem@hbs.edu or submit a pull request if you want to add/ex
     WP 2016 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594258)
   * [Nicholas Bloom  Raffaella Sadun  John Van Reenen _The Organization of Firms Across Countries_
     QJE 2012 ](https://academic.oup.com/qje/article-abstract/127/4/1663/1842108?redirectedFrom=fulltext)
-  * [Robert Gibbons, Rebecca Henderson _https://pubsonline.informs.org/doi/abs/10.1287/orsc.1110.0715?journalCode=orsc_
+  * [Robert Gibbons, Rebecca Henderson _Relational Contracts and Organizational Capabilities_
     OS 2011 ](https://pubsonline.informs.org/doi/abs/10.1287/orsc.1110.0715?journalCode=orsc)
   * [Timothy J. Quigley,  Donald C. Hambrick _Has the “CEO effect” increased in recent decades? A new explanation for the great rise in America's attention to corporate leaders_
     SMJ 2014 ](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2258)
