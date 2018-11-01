@@ -11,7 +11,11 @@ Feel free to email me rem@hbs.edu or submit a pull request if you want to add/ex
 ---
 
 * Papers
-**
+** Jing Cai  Adam Szeidl, Interfirm Relationships and Business Performance QJE 2017  https://academic.oup.com/qje/article/133/3/1229/4768295
+** Aaron Chatterji, Solène Delecourt, Sharique Hasan, Rembrand M. Koning When Does Advice Impact Startup Performance? NBER 2018 https://www.nber.org/papers/w24789
+
+** Witold J. Henisz  Sinziana Dorobantu  Lite J. Nartey Spinning gold: The financial returns to stakeholder engagement
+SMJ 2013 https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2180
 
 * Syllabae
 **
