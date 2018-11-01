@@ -47,5 +47,42 @@ SMJ 2016 https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2565
 SMJ 2017 https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2708
 * Joseph T. Mahoney, Lihong Qian _Market frictions as building blocks of an organizational economics approach to strategic management_
 SMJ 2013 https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2056
+* Olivier Chatain, Peter Zemsky _Value creation and value capture with frictions_
+SMJ 2011 https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.939
+* Robert Gibbons, Rebecca Henderson _https://pubsonline.informs.org/doi/abs/10.1287/orsc.1110.0715?journalCode=orsc_
+OS 2011 https://pubsonline.informs.org/doi/abs/10.1287/orsc.1110.0715?journalCode=orsc
+* Ron Adner, Rahul Kapoor _Value creation in innovation ecosystems: how the structure of technological interdependence affects firm performance in new technology generations_
+SMJ 2009 https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.821
+* Russell W. Coff _The coevolution of rent appropriation and capability development_
+SMJ 2010 https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.844
+* Noah Askin, Matthew Bothner _Status-Aspirational Pricing
+The “Chivas Regal” Strategy in U.S. Higher Education, 2006–2012_
+ASQ 2016 http://journals.sagepub.com/doi/abs/10.1177/0001839216629671?journalCode=asqa
+* Emily Truelove, Katherine C. Kellogg _The Radical Flank Effect and Cross-occupational Collaboration for Technology Development during a Power Shift_
+ASQ 2016 http://journals.sagepub.com/doi/full/10.1177/0001839216647679
+* Stine Grodal _Field Expansion and Contraction: How Communities Shape Social and Symbolic Boundaries_
+ASQ 2017 http://journals.sagepub.com/doi/abs/10.1177/0001839217744555?journalCode=asqa
+* Hila Lifshitz-Assaf _Dismantling Knowledge Boundaries at NASA: The Critical Role of Professional Identity in Open Innovation_
+ASQ 2017 http://journals.sagepub.com/doi/full/10.1177/0001839217747876
+* Julien Clement, Andrew Shipilov, Charles Galunic _Brokerage as a Public Good: The Externalities of Network Hubs for Different Formal Roles in Creative Organizations_
+ASQ 2017 http://journals.sagepub.com/doi/abs/10.1177/0001839217708984?journalCode=asqa
+* Feng Zhu,  Qihong Liu _Competing with complementors: An empirical look at Amazon.com_
+SMJ 2018 https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.2932
+* Wen Wen, Feng Zhu _Threat of Platform-Owner Entry and Complementor Responses: Evidencefrom the Mobile App Market_
+HBS 2017 https://www.hbs.edu/faculty/Publication%20Files/18-036_4f138a21-000c-44ac-a7c4-1acef3265ab1.pdf
+* Azar, José; Marinescu, Ioana E.; Steinbaum, Marshall _Labor Market Concentration_
+IZA 2017 https://www.econstor.eu/bitstream/10419/177058/1/dp11254.pdf
+* Chad Syverson _What Determines Productivity?_
+JEL 2011 http://home.uchicago.edu/syverson/productivitysurvey.pdf
+* Gautam Ahuja, Elena Novelli _Redirecting Research Efforts on the Diversification–Performance Linkage: The Search for Synergy_
+AMA 2016 https://journals.aom.org/doi/abs/10.5465/annals.2014.0079
+* Todd R. Zenger, Teppo Felin, Lyda Bigelow _Theories of the Firm–Market Boundary_
+AMA 2017 https://journals.aom.org/doi/abs/10.5465/19416520.2011.590301
+* Colleen Cunningham, FLorian Ederer, Song Ma _Killer Acquisitions_
+WP 2018 http://faculty.som.yale.edu/songma/files/cem_killeracquisitions.pdf
+* Evan Starr, Natarajan Balasubramanian, Mariko Sakakibara _Screening Spinouts? How Noncompete Enforceability Affects the Creation, Growth, and Survival of New Firms_
+MS 2017 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2523418
+
+
 ## Syllabae
 **
