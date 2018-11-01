@@ -54,14 +54,13 @@ Feel free to email me rem@hbs.edu or submit a pull request if you want to add/ex
     REStud 2009 ](https://academic.oup.com/restud/article-abstract/76/1/283/1577537?redirectedFrom=fulltext)
 
 * The fundamentals of strategy
-  * Todd R. Zenger, Teppo Felin, Lyda Bigelow _Theories of the Firm–Market Boundary_
+  * [Todd R. Zenger, Teppo Felin, Lyda Bigelow _Theories of the Firm–Market Boundary_
     AMA 2017 ](https://journals.aom.org/doi/abs/10.5465/19416520.2011.590301)
-  * Gautam Ahuja, Elena Novelli _Redirecting Research Efforts on the Diversification–Performance Linkage: The Search for Synergy_
-    AMA 2016 ](https://journals.aom.org/doi/abs/10.5465/annals.2014.0079)
-  * Felipe A. Csaszar,  Daniel A. Levinthal _Mental representation and the discovery of new strategies_
-    SMJ 2016 ](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2440)
-  * Joseph T. Mahoney, Lihong Qian _Market frictions as building blocks of an organizational economics approach to strategic management_
-    SMJ 2013 ](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2056)
+  * [Gautam Ahuja, Elena Novelli _Redirecting Research Efforts on the Diversification–Performance Linkage: The Search for Synergy_
+    AMA 2016](https://journals.aom.org/doi/abs/10.5465/annals.2014.0079)
+  * [Felipe A. Csaszar,  Daniel A. Levinthal _Mental representation and the discovery of new strategies_
+    SMJ 2016](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2440)
+  * [Joseph T. Mahoney, Lihong Qian _Market frictions as building blocks of an organizational economics approach to strategic management_ SMJ 2013 ](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2056)
 
 * Managment and Firm Performance
   * [Chad Syverson _What Determines Productivity?_
